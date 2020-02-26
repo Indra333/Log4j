@@ -1,0 +1,39 @@
+2020-02-26 12:03:56,933(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):15 - area of land is 100 and material type is Above Standard
+2020-02-26 12:03:56,983(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):17 - cost for construction for given parameters is: 150000.0 Rupees.
+2020-02-26 12:07:01,630(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):15 - area of land is 200sq.m and material type is Above Standard
+2020-02-26 12:07:01,647(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):17 - cost for construction for given parameters is: 300000.0 Rupees.
+2020-02-26 18:44:27,310(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):25 - Area of land is 250sq.m and material type is High Standatd and Fully Automated House.
+2020-02-26 18:44:27,334(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):27 - Cost of construction for given parameters is: 625000.0 Rupees.
+2020-02-26 19:24:03,092(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestMain.class(1):10 - Simple And CompoundInterest Main class
+2020-02-26 19:24:41,666(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterest.class(1):7 - Simple Interest Calculation Method
+ principle Amount: 2500.0
+Time : 3.5
+Rate of interest: 10.35
+ Simple Interest: 905.625
+2020-02-26 19:29:15,593(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestMain.class(1):10 - Simple And CompoundInterest Main class
+2020-02-26 19:29:47,254(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterest.class(1):13 - Compound Interest Calculation Method
+ principle Amount: 2500.0No Of Times Interest Applied: 10.0
+Time : 1.5
+Rate of interest: 10.35
+ Compound Interest: 1.0626890658570881E8 Rupees
+2020-02-26 19:33:54,308(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestMain.class(1):10 - Simple And CompoundInterest Main class
+2020-02-26 19:34:16,093(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterest.class(1):7 - Simple Interest Calculation Method
+ principle Amount: 2500.0
+ Time : 3.5
+ Rate of interest: 10.35
+ Simple Interest: 905.625 Rupees
+2020-02-26 19:34:30,029(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestMain.class(1):10 - Simple And CompoundInterest Main class
+2020-02-26 19:34:53,769(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterest.class(1):13 - Compound Interest Calculation Method
+ principle Amount: 2500.0
+ No Of Times Interest Applied: 10.0
+ Time : 1.5
+ Rate of interest: 10.35
+ Compound Interest: 1.0626890658570881E8 Rupees
+2020-02-26 19:35:32,934(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):9 - Area of land is 250sq.m and material type is Standard
+2020-02-26 19:35:32,954(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):11 - Cost of construction for given parameters is: 300000.0 Rupees.
+2020-02-26 19:35:50,709(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):15 - Area of land is 250sq.m and material type is Above Standard
+2020-02-26 19:35:50,726(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):17 - Cost of construction for given parameters is: 375000.0 Rupees.
+2020-02-26 19:36:05,352(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):25 - Area of land is 250sq.m and material type is High Standatd and Fully Automated House.
+2020-02-26 19:36:05,372(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):27 - Cost of construction for given parameters is: 625000.0 Rupees.
+2020-02-26 19:36:20,715(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):30 - Area of land is 250sq.m and material type is High Standatd and Not Fully Automated House.
+2020-02-26 19:36:20,735(YYYY-MM-DD HH:mm:ss) INFO  House_Construction_Cost.class(1):32 - Cost of construction for given parameters is: 450000.0 Rupees.
